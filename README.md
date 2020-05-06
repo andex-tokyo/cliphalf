@@ -13,4 +13,4 @@ pip install pillow
 ```
 cliphalf.py　/Users/username/Pictures/half_flame_pictures
 ```
-引数で指定したフォルダのしたにcliphalfというフォルダができ、その中に分割された画像が保存される。
+引数で指定したフォルダの直下にcliphalfというフォルダができ、その中に分割された画像が保存される。
