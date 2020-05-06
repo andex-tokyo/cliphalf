@@ -1,6 +1,5 @@
 from PIL import Image, ImageFilter
 from pathlib import Path
-from os import getuid
 import sys
 
 p = Path(sys.argv[1])
