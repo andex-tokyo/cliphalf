@@ -1,5 +1,6 @@
 # cliphalf
 clip out two images from a half-flame camera image
+fork from [cliphalf](https://github.com/mellan22/cliphalf/tree/master)
 
 
 ## how to use
